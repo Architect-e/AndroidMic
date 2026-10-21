@@ -1,38 +1,30 @@
+<p align="center">
+  <img align="center" src="./Assets/app_icon.svg" alt="app icon" width="80px" />
+  <h1 align="center" style="display: inline-block; margin-left: 12px; vertical-align: middle;">AndroidMic</h1>
+</p>
+<h3 align="center">Use your Android phone as a microphone for your PC</h3>
 <div align="center">
-
-<img src="./Assets/app_icon.svg" alt="AndroidMic app icon" width="96" />
-
-AndroidMic
-
-Turn your Android phone into a microphone for your PC.
 
 A simple way to use your Android device as a microphone for your computer.
+  <p>
+    <a href="https://github.com/teamclouday/AndroidMic/releases/latest">
+      <img src="https://img.shields.io/github/v/release/teamclouday/AndroidMic?logo=github&label=GitHub%20Release" alt="Latest GitHub release" />
+    </a>
+    <a href="https://f-droid.org/packages/io.github.teamclouday.AndroidMic">
+      <img src="https://img.shields.io/f-droid/v/io.github.teamclouday.AndroidMic?logo=f-droid&label=F-Droid" alt="F-Droid version" />
+    </a>
+    <a href="https://search.nixos.org/packages?channel=unstable&show=android-mic">
+      <img src="https://img.shields.io/badge/Nixpkgs-android--mic-5277C3?logo=nixos&logoColor=white" alt="Available on Nixpkgs" />
+    </a>
+  </p>
+</div>
 
-<p>
-<a href="https://github.com/teamclouday/AndroidMic/releases/latest">
-<img src="https://img.shields.io/github/v/release/teamclouday/AndroidMic?logo=github&label=GitHub%20Release" alt="Latest GitHub release" />
-</a>
-<a href="https://f-droid.org/packages/io.github.teamclouday.AndroidMic">
-<img src="https://img.shields.io/f-droid/v/io.github.teamclouday.AndroidMic?logo=f-droid&label=F-Droid" alt="F-Droid version" />
-</a>
-<a href="https://search.nixos.org/packages?channel=unstable&show=android-mic">
-<img src="https://img.shields.io/badge/Nixpkgs-android--mic-5277C3?logo=nixos&logoColor=white" alt="Available on Nixpkgs" />
-</a>
+---
+
+<p  style="text-align: center;">
+  <img src="./Assets/pc_screenshot_main_dark.png" width="65%"  alt="main window pc"/>
+  <img src="./Assets/android_screenshot_main_dark.png" width="25%"  alt="main window android"/>
 </p>
-
-</div>
-
-<div align="center">
-
-<picture>
-<img src="./Assets/pc_screenshot_main_dark.png" alt="AndroidMic desktop application in dark mode" width="72%" />
-</picture>
-
-<br />
-
-<img src="./Assets/android_screenshot_main_dark.png" alt="AndroidMic Android application in dark mode" width="24%" />
-
-</div>
 
 ## Features
 
